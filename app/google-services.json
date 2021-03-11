@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "110362544949",
+    "project_id": "mcc-lab-ass1",
+    "storage_bucket": "mcc-lab-ass1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110362544949:android:56375c75559ae9b47e5a7c",
+        "android_client_info": {
+          "package_name": "com.example.mcclabass1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110362544949-cavq8hb1s4k111nus4s09mvbte3sc0ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2tsb-Ae14QX-TfzynjYeN7GZ-EDceb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110362544949-cavq8hb1s4k111nus4s09mvbte3sc0ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
